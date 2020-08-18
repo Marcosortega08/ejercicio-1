@@ -16,11 +16,11 @@ box-shadow: 3px 3px 15px black;/*x y blur color (difuminado)*/
 }
 
 .detelle_directions{
-    color:rgb(185, 9, 255);
+    color:rgb(0, 0, 0);
 }
 
 .volver{
     text-decoration: none;
-    color:green;/*color de texto */
+    color: rgb(208, 255, 0);/*color de texto */
     font-weight: bold;/*negrita*/
 }
