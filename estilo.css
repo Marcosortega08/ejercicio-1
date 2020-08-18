@@ -1,8 +1,26 @@
 h1 {
 
-    color:red; 
+    color: pink;
 
 }
  
+body{
+    font-family: arial, Arial, Helvetica, sans-serif;
+background: linear-gradient(to left, rgb(45, 127, 165), rgb(117, 231, 252)) ;
+}
 
+.caja{ 
+    background: white;/*color de fondo*/
+    padding: 16px;/*relleno*/
+box-shadow: 3px 3px 15px black;/*x y blur color (difuminado)*/
+}
 
+.detelle_directions{
+    color:rgb(185, 9, 255);
+}
+
+.volver{
+    text-decoration: none;
+    color:green;/*color de texto */
+    font-weight: bold;/*negrita*/
+}
